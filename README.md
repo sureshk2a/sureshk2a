@@ -27,6 +27,6 @@ I'm Suresh Kumar.
 
 [twitter]: https://twitter.com/Sureshpillai07
 [Outlook]: https://www.outlook.com
-[linkedin]: nkedin.com/in/suresh-kumar-a105/
+[linkedin]: https://www.linkedin.com/in/suresh-kumar-a105/
 [Medium]: https://medium.com/@sureshkumar_a
 
