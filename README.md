@@ -13,7 +13,7 @@ I'm Suresh Kumar.
 <br />
 <hr />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sureshk2a)](https://github.com/sureshk2a/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sureshk2a&layout=compact&theme=radical)](https://github.com/sureshk2a/github-readme-stats)
 
 [![Suresh's github stats](https://github-readme-stats.vercel.app/api?username=sureshk2a&show_icons=true&theme=radical)](https://github.com/surehk2a/github-readme-stats)
 
