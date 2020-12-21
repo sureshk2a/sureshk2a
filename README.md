@@ -13,6 +13,9 @@ I'm Suresh Kumar.
 <br />
 <hr />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sureshk2a)](https://github.com/sureshk2a/github-readme-stats)
+
+[![Suresh's github stats](https://github-readme-stats.vercel.app/api?username=sureshk2a&show_icons=true&theme=radical)](https://github.com/surehk2a/github-readme-stats)
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
