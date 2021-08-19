@@ -2,7 +2,7 @@
 <p align='center'>
 I'm Suresh Kumar.
 </p>
-<p align='center'>Java | C# | Python | JavaScript</p>
+<p align='center'>Java | NodeJs | Python </p>
 
   <b><i>Let's connect! Find me on the web.</i></b>
 
