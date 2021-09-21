@@ -1,8 +1,8 @@
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
-I'm Suresh Kumar.
+I'm Suresh.
 </p>
-<p align='center'>Java | NodeJs | Python </p>
+<p align='center'>I mostly code on Java, NodeJs & Python</p>
 
   <b><i>Let's connect! Find me on the web.</i></b>
 
