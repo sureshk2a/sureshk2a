@@ -17,12 +17,6 @@ I'm Suresh Kumar.
 
 [![Suresh's github stats](https://github-readme-stats.vercel.app/api?username=sureshk2a&show_icons=true&theme=radical)](https://github.com/surehk2a/github-readme-stats)
 
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-
-
-
- ![Visitor Count](https://profile-counter.glitch.me/{sureshk2a}/count.svg)
-
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 [twitter]: https://twitter.com/Sureshpillai07
