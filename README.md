@@ -15,7 +15,8 @@ I'm Suresh Kumar.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sureshk2a&layout=compact&theme=radical)](https://github.com/sureshk2a/github-readme-stats)
 
-[![Suresh's github stats](https://github-readme-stats.vercel.app/api?username=sureshk2a&show_icons=true&theme=radical)](https://github.com/surehk2a/github-readme-stats)
+<h2 align="right">[![Suresh's github stats](https://github-readme-stats.vercel.app/api?username=sureshk2a&show_icons=true&theme=radical)](https://github.com/surehk2a/github-readme-stats)</h2>
+
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
