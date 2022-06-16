@@ -1,8 +1,6 @@
-<h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
-I'm Suresh.
-</p>
-<p align='center'>I mostly code on Java, NodeJs & Python</p>
+<h1 align='center'> Hi!, I'm Suresh. :wave:</h1>
+
+<p align='center'>Automation Test Engineer</p>
 
   <b><i>Let's connect! Find me on the web.</i></b>
 
